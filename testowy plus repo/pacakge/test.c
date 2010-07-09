@@ -8,7 +8,8 @@
 int main(void) {
 	int i=0;
 
-	DDRB = 0xF0;
+	DDRB = 0xFF;
+	DDRB= 0x00;
 
 	while(1) {
 
