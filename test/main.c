@@ -4,7 +4,7 @@ int main(void) {
 
 	DDRB = 0xFF;
 	DDRB= 0x00;
-//dasdasdasd
+//dasdasdasds
 	while(1) {
 
 	 i++;
